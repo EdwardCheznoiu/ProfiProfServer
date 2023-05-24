@@ -1,0 +1,12 @@
+E:\Facultate\LICENTA\ProfiProfServer3\Common\bin\Debug\net5.0\Common.deps.json
+E:\Facultate\LICENTA\ProfiProfServer3\Common\bin\Debug\net5.0\Common.dll
+E:\Facultate\LICENTA\ProfiProfServer3\Common\bin\Debug\net5.0\Common.pdb
+E:\Facultate\LICENTA\ProfiProfServer3\Common\obj\Debug\net5.0\Common.csproj.AssemblyReference.cache
+E:\Facultate\LICENTA\ProfiProfServer3\Common\obj\Debug\net5.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\Facultate\LICENTA\ProfiProfServer3\Common\obj\Debug\net5.0\Common.AssemblyInfoInputs.cache
+E:\Facultate\LICENTA\ProfiProfServer3\Common\obj\Debug\net5.0\Common.AssemblyInfo.cs
+E:\Facultate\LICENTA\ProfiProfServer3\Common\obj\Debug\net5.0\Common.csproj.CoreCompileInputs.cache
+E:\Facultate\LICENTA\ProfiProfServer3\Common\obj\Debug\net5.0\Common.dll
+E:\Facultate\LICENTA\ProfiProfServer3\Common\obj\Debug\net5.0\refint\Common.dll
+E:\Facultate\LICENTA\ProfiProfServer3\Common\obj\Debug\net5.0\Common.pdb
+E:\Facultate\LICENTA\ProfiProfServer3\Common\obj\Debug\net5.0\ref\Common.dll
