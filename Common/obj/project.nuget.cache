@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "E25CJZ4pJR7yKUx4AlV+3BuNEC6sBvT0xSobPsUlasDC/Qj/Ca/USv+cRqlylOV7+fvsAjBnoSE990zu7lD7bg==",
+  "dgSpecHash": "vhmVe7+LpomEbQLLBGiDN+dSK9pb506uGaVCBPCLjQIN+dGALfg4h07prLHy63siVfAxyFooiBCMylNY3x6U2A==",
   "success": true,
-  "projectFilePath": "E:\\Facultate\\LICENTA\\ProfiProfServer3\\Common\\Common.csproj",
+  "projectFilePath": "E:\\Facultate\\LICENTA\\ProfiProfServer\\Common\\Common.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\chezn\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\chezn\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",
