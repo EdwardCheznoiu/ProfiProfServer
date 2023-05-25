@@ -4,7 +4,7 @@ namespace Conversation.Catalog.Service
     {
         public static ConversationDto AsDto(this Conversation conversation)
         {
-            return new ConversationDto(conversation.Id, conversation.MessageId, conversation.UserId);
+            return new ConversationDto(conversation.Id, conversation.UserId, conversation.OtherId);
         }
     }
 }

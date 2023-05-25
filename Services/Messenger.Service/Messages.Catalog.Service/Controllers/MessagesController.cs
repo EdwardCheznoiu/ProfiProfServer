@@ -20,15 +20,20 @@ namespace Messages.Catalog.Service.Controllers
             this.messageRepository = messageRepository;
         }
 
-
         [HttpGet]
+        public async Task<IEnumerable<MessageDto>> GetAsync()
+        {
+            var messages = (await messageRepository.GetAllAsync()).Select(message => message.AsDto());
+            return messages;
+        }
+
+        [HttpGet("{userId}")]
         public async Task<ActionResult<IEnumerable<MessageDto>>> GetAsync(Guid userId)
         {
             if (userId == Guid.Empty) return BadRequest();
             var messages = (await messageRepository.GetAllAsync(message => message.UserId == userId)).Select(message => message.AsDto());
             return Ok(messages);
         }
-
 
         [HttpPost]
         public async Task<ActionResult> PostAsync(CreateMessageDto createMessageDto)

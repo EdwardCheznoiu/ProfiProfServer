@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qE2AFJW/jsV2zhlnF6pmqQAH2vZEj2aNE5MMa/+9e23O1z4qFU3jeUV9PR051GB51nQtJB2dAV57hmtTUiWNkA==",
+  "dgSpecHash": "EXZuRVBZnRiZdl00uMLqZo2jX8w825JdfA2m4cyYp2gd2Tu6pkCGsLUBqiVk0ZXm2J4CCD3ixP2esu+aeE35ew==",
   "success": true,
-  "projectFilePath": "E:\\Facultate\\LICENTA\\ProfiProfServer3\\Services\\Messenger.Service\\Conversation.Catalog.Service\\Conversation.Catalog.Service.csproj",
+  "projectFilePath": "E:\\Facultate\\LICENTA\\ProfiProfServer\\Services\\Messenger.Service\\Conversation.Catalog.Service\\Conversation.Catalog.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\chezn\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\chezn\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",
