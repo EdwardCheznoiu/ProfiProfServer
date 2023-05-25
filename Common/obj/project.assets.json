@@ -1066,11 +1066,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Facultate\\LICENTA\\ProfiProfServer3\\Common\\Common.csproj",
+      "projectUniqueName": "E:\\Facultate\\LICENTA\\ProfiProfServer\\Common\\Common.csproj",
       "projectName": "Common",
-      "projectPath": "E:\\Facultate\\LICENTA\\ProfiProfServer3\\Common\\Common.csproj",
+      "projectPath": "E:\\Facultate\\LICENTA\\ProfiProfServer\\Common\\Common.csproj",
       "packagesPath": "C:\\Users\\chezn\\.nuget\\packages\\",
-      "outputPath": "E:\\Facultate\\LICENTA\\ProfiProfServer3\\Common\\obj\\",
+      "outputPath": "E:\\Facultate\\LICENTA\\ProfiProfServer\\Common\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\chezn\\AppData\\Roaming\\NuGet\\NuGet.Config",

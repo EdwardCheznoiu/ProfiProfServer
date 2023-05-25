@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Facultate\\LICENTA\\ProfiProfServer3\\Services\\Messenger.Service\\Messages.Catalog.Service\\Messenger.Catalog.Service.csproj": {}
+    "E:\\Facultate\\LICENTA\\ProfiProfServer\\Services\\Messenger.Service\\Messages.Catalog.Service\\Messenger.Catalog.Service.csproj": {}
   },
   "projects": {
-    "E:\\Facultate\\LICENTA\\ProfiProfServer3\\Common\\Common.csproj": {
+    "E:\\Facultate\\LICENTA\\ProfiProfServer\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Facultate\\LICENTA\\ProfiProfServer3\\Common\\Common.csproj",
+        "projectUniqueName": "E:\\Facultate\\LICENTA\\ProfiProfServer\\Common\\Common.csproj",
         "projectName": "Common",
-        "projectPath": "E:\\Facultate\\LICENTA\\ProfiProfServer3\\Common\\Common.csproj",
+        "projectPath": "E:\\Facultate\\LICENTA\\ProfiProfServer\\Common\\Common.csproj",
         "packagesPath": "C:\\Users\\chezn\\.nuget\\packages\\",
-        "outputPath": "E:\\Facultate\\LICENTA\\ProfiProfServer3\\Common\\obj\\",
+        "outputPath": "E:\\Facultate\\LICENTA\\ProfiProfServer\\Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chezn\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -79,14 +79,14 @@
         }
       }
     },
-    "E:\\Facultate\\LICENTA\\ProfiProfServer3\\Services\\Messenger.Service\\Messages.Catalog.Service\\Messenger.Catalog.Service.csproj": {
+    "E:\\Facultate\\LICENTA\\ProfiProfServer\\Services\\Messenger.Service\\Messages.Catalog.Service\\Messenger.Catalog.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Facultate\\LICENTA\\ProfiProfServer3\\Services\\Messenger.Service\\Messages.Catalog.Service\\Messenger.Catalog.Service.csproj",
+        "projectUniqueName": "E:\\Facultate\\LICENTA\\ProfiProfServer\\Services\\Messenger.Service\\Messages.Catalog.Service\\Messenger.Catalog.Service.csproj",
         "projectName": "Messenger.Catalog.Service",
-        "projectPath": "E:\\Facultate\\LICENTA\\ProfiProfServer3\\Services\\Messenger.Service\\Messages.Catalog.Service\\Messenger.Catalog.Service.csproj",
+        "projectPath": "E:\\Facultate\\LICENTA\\ProfiProfServer\\Services\\Messenger.Service\\Messages.Catalog.Service\\Messenger.Catalog.Service.csproj",
         "packagesPath": "C:\\Users\\chezn\\.nuget\\packages\\",
-        "outputPath": "E:\\Facultate\\LICENTA\\ProfiProfServer3\\Services\\Messenger.Service\\Messages.Catalog.Service\\obj\\",
+        "outputPath": "E:\\Facultate\\LICENTA\\ProfiProfServer\\Services\\Messenger.Service\\Messages.Catalog.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chezn\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -105,8 +105,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "E:\\Facultate\\LICENTA\\ProfiProfServer3\\Common\\Common.csproj": {
-                "projectPath": "E:\\Facultate\\LICENTA\\ProfiProfServer3\\Common\\Common.csproj"
+              "E:\\Facultate\\LICENTA\\ProfiProfServer\\Common\\Common.csproj": {
+                "projectPath": "E:\\Facultate\\LICENTA\\ProfiProfServer\\Common\\Common.csproj"
               }
             }
           }
