@@ -1,0 +1,12 @@
+E:\Facultate\LICENTA\ProfiProfServer\Services\Users.Service\Users.Contracts\bin\Debug\net5.0\Users.Contracts.deps.json
+E:\Facultate\LICENTA\ProfiProfServer\Services\Users.Service\Users.Contracts\bin\Debug\net5.0\Users.Contracts.dll
+E:\Facultate\LICENTA\ProfiProfServer\Services\Users.Service\Users.Contracts\bin\Debug\net5.0\Users.Contracts.pdb
+E:\Facultate\LICENTA\ProfiProfServer\Services\Users.Service\Users.Contracts\obj\Debug\net5.0\Users.Contracts.csproj.AssemblyReference.cache
+E:\Facultate\LICENTA\ProfiProfServer\Services\Users.Service\Users.Contracts\obj\Debug\net5.0\Users.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+E:\Facultate\LICENTA\ProfiProfServer\Services\Users.Service\Users.Contracts\obj\Debug\net5.0\Users.Contracts.AssemblyInfoInputs.cache
+E:\Facultate\LICENTA\ProfiProfServer\Services\Users.Service\Users.Contracts\obj\Debug\net5.0\Users.Contracts.AssemblyInfo.cs
+E:\Facultate\LICENTA\ProfiProfServer\Services\Users.Service\Users.Contracts\obj\Debug\net5.0\Users.Contracts.csproj.CoreCompileInputs.cache
+E:\Facultate\LICENTA\ProfiProfServer\Services\Users.Service\Users.Contracts\obj\Debug\net5.0\Users.Contracts.dll
+E:\Facultate\LICENTA\ProfiProfServer\Services\Users.Service\Users.Contracts\obj\Debug\net5.0\refint\Users.Contracts.dll
+E:\Facultate\LICENTA\ProfiProfServer\Services\Users.Service\Users.Contracts\obj\Debug\net5.0\Users.Contracts.pdb
+E:\Facultate\LICENTA\ProfiProfServer\Services\Users.Service\Users.Contracts\obj\Debug\net5.0\ref\Users.Contracts.dll

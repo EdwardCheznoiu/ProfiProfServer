@@ -1,0 +1,12 @@
+E:\Facultate\LICENTA\ProfiProfServer\Services\Auth.Serivce\Auth.Contracts\bin\Debug\net5.0\Auth.Contracts.deps.json
+E:\Facultate\LICENTA\ProfiProfServer\Services\Auth.Serivce\Auth.Contracts\bin\Debug\net5.0\Auth.Contracts.dll
+E:\Facultate\LICENTA\ProfiProfServer\Services\Auth.Serivce\Auth.Contracts\bin\Debug\net5.0\Auth.Contracts.pdb
+E:\Facultate\LICENTA\ProfiProfServer\Services\Auth.Serivce\Auth.Contracts\obj\Debug\net5.0\Auth.Contracts.csproj.AssemblyReference.cache
+E:\Facultate\LICENTA\ProfiProfServer\Services\Auth.Serivce\Auth.Contracts\obj\Debug\net5.0\Auth.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+E:\Facultate\LICENTA\ProfiProfServer\Services\Auth.Serivce\Auth.Contracts\obj\Debug\net5.0\Auth.Contracts.AssemblyInfoInputs.cache
+E:\Facultate\LICENTA\ProfiProfServer\Services\Auth.Serivce\Auth.Contracts\obj\Debug\net5.0\Auth.Contracts.AssemblyInfo.cs
+E:\Facultate\LICENTA\ProfiProfServer\Services\Auth.Serivce\Auth.Contracts\obj\Debug\net5.0\Auth.Contracts.csproj.CoreCompileInputs.cache
+E:\Facultate\LICENTA\ProfiProfServer\Services\Auth.Serivce\Auth.Contracts\obj\Debug\net5.0\Auth.Contracts.dll
+E:\Facultate\LICENTA\ProfiProfServer\Services\Auth.Serivce\Auth.Contracts\obj\Debug\net5.0\refint\Auth.Contracts.dll
+E:\Facultate\LICENTA\ProfiProfServer\Services\Auth.Serivce\Auth.Contracts\obj\Debug\net5.0\Auth.Contracts.pdb
+E:\Facultate\LICENTA\ProfiProfServer\Services\Auth.Serivce\Auth.Contracts\obj\Debug\net5.0\ref\Auth.Contracts.dll
